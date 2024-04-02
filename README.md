@@ -4,7 +4,7 @@ Projeto Swag labs - Selenium
 
 
 ## Descrição
-este projeto foi desenvolvido com o intuito de aprendizado utilizando  Selenium, e consiste em realizar o loguin/compra de uma aplicação que simula uma loja online
+este projeto foi desenvolvido com o intuito de aprendizado utilizando  Selenium, e consiste em realizar o login/compra de uma aplicação que simula uma loja online
 e esta sendo executados  somente fluxo positivo.
 
 ## ferramentas
